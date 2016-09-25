@@ -4,7 +4,9 @@
 ```
 I simple java project for handling banking accounts 
 ```
-![thor1 2](file:///home/rachit/Pictures/Screenshot%20from%202016-09-20%2020-35-18.png)
+
+
+![thor1 2](https://cloud.githubusercontent.com/assets/18389653/18815451/9db36c32-834f-11e6-9610-78dcb464acc6.png)
 
 
 
